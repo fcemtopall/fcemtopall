@@ -8,7 +8,6 @@
 - ✉️ &nbsp;You can shoot me an email at fcemtopall@gmail.com! I'll try to respond as soon as I can.
 
 
-<img alt="Coding" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" align="right"/>
 
 
 ### 🛠 &nbsp;Tech Stack
