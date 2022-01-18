@@ -20,6 +20,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fcemtopall&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+![snake gif]
+(https://github.com/fcemtopall/fcemtopall/blob/output/github-contribution-grid-snake.gif)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
