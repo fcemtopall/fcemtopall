@@ -1,4 +1,4 @@
-### Hello World 👋 I'm Fırat Cem Topal !
+### Hello World 👋 I'm Fırat Cem !
 
 ### 👨🏻‍💻 &nbsp;About Me
 
